@@ -25,7 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+<<<<<<< HEAD
 artifacts/*
+=======
+>>>>>>> b541ff1db0fdbdd9301123b6e64247127ad941e5
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
